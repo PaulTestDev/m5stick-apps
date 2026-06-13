@@ -3,6 +3,10 @@
     "jump_game": {
       "name": "Jump Game",
       "version": 1
+    },
+    "runner": {
+      "name": "Runner",
+      "version": 1
     }
   }
 }
