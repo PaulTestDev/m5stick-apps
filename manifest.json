@@ -2,7 +2,7 @@
   "apps": {
     "jump_game": {
       "name": "Jump Game",
-      "version": 2.2
+      "version": 2.3
     },
     "runner": {
       "name": "Runner",
