@@ -9,7 +9,7 @@ from M5 import *
 from libs.app_base import AppBase
 
 # ── Palette ───────────────────────────────────────────────────────────────────
-C_BG     = 0xFF1111
+C_BG     = 0x661111
 C_GROUND = 0x4CAF50
 C_PLAYER = 0x00BFFF
 C_WHITE  = 0xFFFFFF
